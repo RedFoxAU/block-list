@@ -18,3 +18,15 @@ browser.sentry-cdn.com
 app.getsentry.com
 samsung-com.112.2o7.net
 browser.sentry-cdn.com
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+cdn-test.mouseflow.com
+adm.hotjar.com
+identify.hotjar.com
+script.hotjar.com
+geo.yahoo.com
+analytics.yahoo.com
+appmetrica.yandex.ru
+weather-analytics-events.apple.com
+analytics.s3.amazonaws.com
