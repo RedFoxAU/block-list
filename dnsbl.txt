@@ -57,3 +57,4 @@ adfstat.yandex.ru
 log.fc.yahoo.com
 metrika.yandex.ru
 adtech.yahooinc.com
+app.getsentry.com
