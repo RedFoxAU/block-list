@@ -1,0 +1,16 @@
+afs.googlesyndication.com
+adm.hotjar.com
+insights.hotjar.com
+freshmarketer.com
+cdn-test.mouseflow.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+browser.sentry-cdn.com
+api.bugsnag.com
+app.bugsnag.com
+ads-api.tiktok.com
+bdapi-in-ads.realmemobile.com
+api-adservices.apple.com
+books-analytics-events.apple.com
