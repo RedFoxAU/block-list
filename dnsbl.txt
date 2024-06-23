@@ -17,3 +17,4 @@ books-analytics-events.apple.com
 browser.sentry-cdn.com
 app.getsentry.com
 samsung-com.112.2o7.net
+browser.sentry-cdn.com
