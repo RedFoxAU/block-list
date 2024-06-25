@@ -53,6 +53,7 @@ udc.yahoo.com
 udcm.yahoo.com
 offerwall.yandex.net
 extmaps-api.yandex.net
+weather-analytics-events.apple.com
 adfstat.yandex.ru
 log.fc.yahoo.com
 metrika.yandex.ru
