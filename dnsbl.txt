@@ -59,3 +59,13 @@ log.fc.yahoo.com
 metrika.yandex.ru
 adtech.yahooinc.com
 app.getsentry.com
+static.media.net
+adservetx.media.net
+mouseflow.com
+o2.mouseflow.com
+cdn-test.mouseflow.com
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+surveys.hotjar.com
+weather-analytics-events.apple.com
