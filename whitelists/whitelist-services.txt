@@ -1,0 +1,98 @@
+# --- Google (Login, OAuth, APIs, Captcha, Fonts) ---
+accounts.google.com
+clients6.google.com
+oauth.googleusercontent.com
+apis.google.com
+fonts.gstatic.com
+fonts.googleapis.com
+www.gstatic.com
+ssl.gstatic.com
+lh3.googleusercontent.com
+www.google.com
+accounts.youtube.com
+accounts.youtube.googleapis.com
+myaccount.google.com
+googleapis.com
+recaptcha.net
+www.recaptcha.net
+
+# --- Apple (iCloud, App Store, Login) ---
+appleid.apple.com
+idmsa.apple.com
+secure.apple.com
+setup.icloud.com
+init.itunes.apple.com
+gs.apple.com
+mesu.apple.com
+xp.apple.com
+
+# --- Microsoft (Login, Outlook, Office365, Skype) ---
+login.microsoftonline.com
+login.live.com
+secure.aadcdn.microsoftonline-p.com
+graph.microsoft.com
+outlook.office365.com
+outlook.live.com
+office365.com
+office.com
+skype.com
+skypeassets.com
+cdn.onenote.net
+s-microsoft.com
+msocsp.com
+microsoft.com
+microsoftonline.com
+msftconnecttest.com
+
+# --- Facebook / Instagram (Logins, API, media) ---
+facebook.com
+fbcdn.net
+instagram.com
+cdninstagram.com
+graph.facebook.com
+connect.facebook.net
+static.xx.fbcdn.net
+
+# --- Twitter / X ---
+twitter.com
+abs.twimg.com
+pbs.twimg.com
+ton.twimg.com
+video.twimg.com
+
+# --- LinkedIn ---
+linkedin.com
+licdn.com
+
+# --- TikTok ---
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+
+# --- Reddit ---
+reddit.com
+redditmedia.com
+
+# --- Discord ---
+discord.com
+cdn.discordapp.com
+status.discord.com
+
+# --- Zoom / Slack / Teams (Popular for work apps) ---
+zoom.us
+zoom.us.com
+static.zdassets.com
+slack.com
+slack-edge.com
+teams.microsoft.com
+
+# --- Misc (Cloudflare, CDNs, Captcha, Auth) ---
+cloudflare.com
+cloudflareinsights.com
+cdn.cloudflare.net
+gstatic.com
+akamaized.net
+akamaihd.net
+googleusercontent.com
+firebaseapp.com
+firebaseio.com
