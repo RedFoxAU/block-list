@@ -1,0 +1,63 @@
+# Facebook / Instagram
+ads.facebook.com
+ads.ak.facebook.com
+an.facebook.com
+connect.facebook.net
+pixel.facebook.com
+ads.instagram.com
+graph.facebook.com
+tr.facebook.com
+
+# LinkedIn
+ads.linkedin.com
+analytics.linkedin.com
+px.ads.linkedin.com
+tracking.linkedin.com
+
+# Twitter / X
+ads.twitter.com
+analytics.twitter.com
+static.ads-twitter.com
+ads-api.twitter.com
+
+# TikTok
+ads.tiktok.com
+business.tiktok.com
+analytics.tiktok.com
+log.tiktokv.com
+tracking.tiktok.com
+
+# Snapchat
+ads.snapchat.com
+tr.snapchat.com
+analytics.snapchat.com
+
+# Reddit
+ads.reddit.com
+events.redditmedia.com
+pixel.reddit.com
+
+# YouTube / Google Ads (related to social & app ads)
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+adservice.google.com
+
+# Pinterest
+ads.pinterest.com
+log.pinterest.com
+tracking.pinterest.com
+
+# Tumblr
+ads.tumblr.com
+secure-ads.tumblr.com
+
+# Threads (Meta)
+ads.threads.net
+pixel.threads.net
+
+# Discord (some tracking services)
+analytics.discord.com
+track.discordapp.net
+metrics.discordapp.com
