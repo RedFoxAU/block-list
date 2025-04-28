@@ -1,4 +1,5 @@
 www.kmart.com.au
+auth.kmart.com.au
 kmart.com.au
 woolworths.com.au
 www.woolworths.com.au
