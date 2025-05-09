@@ -1,3 +1,5 @@
+ipleak.net
+dnsleaktest.com
 ipinfo.io
 vic.gov.au
 gov.au
