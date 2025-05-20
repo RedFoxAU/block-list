@@ -1,3 +1,5 @@
+sso.garmin.com
+garmin.com
 ipleak.net
 dnsleaktest.com
 ipinfo.io
